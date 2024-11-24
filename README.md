@@ -8,6 +8,8 @@ This project aims to predict student performance (GradeClass) based on various f
 
 The project uses the "Students Performance Dataset" available on Kaggle. The dataset includes information about students' demographics, academic habits, and performance indicators.
 
+https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset/data
+
 ## Features 📊
 
 **Selected Features:**
@@ -40,7 +42,7 @@ A RandomForestClassifier model is used for prediction. GridSearchCV is employed 
 ## Usage 💻
 
 1. **Data Preparation:**
-   - Load the dataset using `pd.read_csv('/content/Student_performance_data _.csv')`.
+   - Load the dataset using `pd.read_csv('Student_performance_data _.csv')`.
    - Preprocess the data as shown in the notebook, including creating dummy variables for categorical features and rounding numerical features.
 
 2. **Model Training:**
@@ -65,10 +67,12 @@ This project demonstrates the use of machine learning for student performance pr
 
 ## Requirements 🔧
 
-* Python 3
-* Pandas
-* Scikit-learn
-* Seaborn
+* Python 3 🐍
+* Pandas 🐼
+* Scikit-learn 🛠️
+* Seaborn 🌊
+* Streamlit
+* Joblib 💼
 
 ## Contributing 🤝
 
