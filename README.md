@@ -61,6 +61,10 @@ The model's performance is evaluated using accuracy, precision, recall, and F1 s
 ![Train Vs Test Precision](https://github.com/user-attachments/assets/36a9ab7a-f5e8-4e10-b6fa-ebc930ca89ab)
 ![Train Vs Test Recall](https://github.com/user-attachments/assets/b60543c1-ba42-407b-b194-e00cfd8a10a6)
 
+## StreamLit Interface 🖱️
+
+<img width="428" alt="Screenshot 2024-11-24 at 12 50 21 PM" src="https://github.com/user-attachments/assets/1fb34879-9192-4f69-a274-e6e2faf9974f">
+
 ## Conclusion :bulb:
 
 This project demonstrates the use of machine learning for student performance prediction. While achieving a high accuracy without relying on GPA can be a challenge, the model provides valuable insights into the factors that contribute to student success. Further improvements could involve exploring other models and optimizing feature selection strategies.
