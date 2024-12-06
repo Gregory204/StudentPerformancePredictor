@@ -55,7 +55,7 @@ A RandomForestClassifier model is used for prediction. GridSearchCV is employed 
 
 ## Results :chart_with_upwards_trend:
 
-The model's performance is evaluated using accuracy, precision, recall, and F1 scores.  The results obtained without including GPA as a predictor provide insights into the relative importance of other features. Cross-validation techniques are applied to mitigate overfitting.
+The model's performance is evaluated using accuracy, precision, recall, and F1 scores.  The results obtained without including GPA as a predictor provide insights into the relative importance of other features. Cross-validation shows difference of training data vs test data.
 
 ![Train Vs Test Accuracy](https://github.com/user-attachments/assets/a36299bc-d043-4aec-a424-10f7dcfee40f)
 ![Train Vs Test Precision](https://github.com/user-attachments/assets/36a9ab7a-f5e8-4e10-b6fa-ebc930ca89ab)
